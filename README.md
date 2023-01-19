@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **deserdiv@gmail.com**
 
-- 📄 Know about my experiences [I don't have any work experience, but I worked as a freelancer.](I don't have any work experience, but I worked as a freelancer.)
-
+- 📄 Know about my experiences [I don't have any work experience, but I worked as a freelancer.]
 - ⚡ Fun fact **While web-developing, I like to learn new things, be productive, and spend most of my time on this job.**
 
 <h3 align="left">Connect with me:</h3>
