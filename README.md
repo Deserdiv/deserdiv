@@ -3,7 +3,7 @@
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' align="right" alt="Coding" width="400" />
 <p align="left"> <a href="https://twitter.com/deserdiv" target="blank"><img src="https://img.shields.io/twitter/follow/deserdiv?logo=twitter&style=for-the-badge" alt="deserdiv" /></a> </p>
 
-- 🌱 I’m currently learning **Redux and Typescript**
+- 🌱 Currently learning **Redux and Typescript**
 
 - 📫 How to reach me **deserdiv@gmail.com**
 
